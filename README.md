@@ -11,7 +11,7 @@ I´m a Computer Engineer who enjoys making automations in the Network and Cloud 
   <img align="center" alt="EV-CISCO" height="40" width="90" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg"  />
   <img align="center" alt="EV-PYTHON" height="70" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"  />
   <img align="center" alt="EV-TERRAFORM" height="70" width="90"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg"  />
-  <img align="center" alt="EV-ANSIBLE" height="80" width="90" src="https://github.com/AwesomeLogos/logomono/blob/gh-pages/logos/ansible.svg" />
+  <img align="center" alt="EV-ANSIBLE" height="80" width="90" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" />
 </div>
   
  ##
